@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2500&pause=2500&color=98BB13&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Hi+there!+I'm+Marty!;Full-Stack+Software+Developer"/></a>
 </p>
-I am a full-stack software engineer with a background in healthcare and a lifelong passion for all things tech. Last year, I decided to follow my dreams and leave my career in pharmacy behind in order to pursue a career as a software developer. The past year has been filled with countless hours of studying, and I have loved every second of it! Recently graduated from the excellent Makers Academy full-stack software development bootcamp. If you'd like to ask me anything, get in touch! Would love to hear from you.
+I am a full-stack software engineer with a background in healthcare and a lifelong passion for all things tech. Last year, I decided to follow my dreams and leave my career in pharmacy behind in order to pursue a career as a software developer. The past year has been filled with countless hours of studying, and I have loved every second of it! Recently graduated from the excellent Makers Academy full-stack software development bootcamp. Ask me how my past career in healthcare makes me a better software developer.
 
 
 --- 
