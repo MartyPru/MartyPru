@@ -8,7 +8,6 @@ I am a full-stack software engineer with a background in healthcare and a lifelo
 --- 
 
 - 🌱 I’m currently learning: 
-	- C
 	- Computer Organisation & Architecture
 	- Game development with C# & Unity
 
